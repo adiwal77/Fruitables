@@ -1,7 +1,7 @@
 # Fruitables
 On Netlify: 
-Fruits WebSite:  https://fruitables-vivek.netlify.app/
+Fruits WebSite:  https://anish777.github.io/Fruitables/
 
 
 On Github:
-Fruits WebSite:  https://maharana-vivek.github.io/Fruitables/
+Fruits WebSite:  https://anish777.github.io/Fruitables/
